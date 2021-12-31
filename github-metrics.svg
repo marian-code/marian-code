@@ -4187,7 +4187,7 @@ In short when I run the search and click next the red marked cell moves down. It
                   <span class="prefix"></span> Developer
                   
                     <span class="gh">
-                      ranked 1.88m out of 82m users
+                      ranked 1.89m out of 82m users
                     </span>
                   
                   
@@ -4245,7 +4245,7 @@ In short when I run the search and click next the red marked cell moves down. It
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Dec 2021, 13:16:49 (timezone Europe/Bratislava) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 31 Dec 2021, 14:18:57 (timezone Europe/Bratislava) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
